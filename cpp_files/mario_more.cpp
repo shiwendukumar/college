@@ -20,7 +20,7 @@ int main()
             std::cout << "#";
         }
 
-        std::cout << "  ";
+        std::cout << " ";
 
         for (hash = x; hash > 0; hash--)
         {
